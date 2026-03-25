@@ -1,4 +1,4 @@
-## Olá! Sou o Fábio Antunes 👋
+## Olá! Sou o Fábio Antunes
 
 <div align="start">
   <a href="https://github.com/FabioAntunesO">
